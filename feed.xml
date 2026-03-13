@@ -1,0 +1,133 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://evanlin-suctf.github.io/</id>
+  <title>Evan Lin's L1fe</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2026-03-13T18:18:07+08:00</updated>
+  <author>
+    <name>EvanLin</name>
+    <uri>https://evanlin-suctf.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://evanlin-suctf.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://evanlin-suctf.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2026 EvanLin </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Play with me t_t</title>
+    <link href="https://evanlin-suctf.github.io/posts/play-with-me-T_T/" rel="alternate" type="text/html" title="Play with me t_t" />
+    <published>2025-06-03T00:00:00+08:00</published>
+  
+    <updated>2025-06-03T00:00:00+08:00</updated>
+  
+    <id>https://evanlin-suctf.github.io/posts/play-with-me-T_T/</id>
+    <content type="text/html" src="https://evanlin-suctf.github.io/posts/play-with-me-T_T/" />
+    <author>
+      <name>EvanLin</name>
+    </author>
+
+  
+    
+  
+
+  <summary>June 3, 2025  Today after work I suddenly felt like playing some Minecraft. It’s been a while since I last logged in, and for some reason the idea just popped into my head while I was on the way home.  Playing alone can get a bit boring sometimes, so I messaged 2hi5hu and asked if he wanted to join later in the evening. At first he said “maybe”, which I took as a yes. I spent a little time prep...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Happy birthday</title>
+    <link href="https://evanlin-suctf.github.io/posts/Happy-birthday/" rel="alternate" type="text/html" title="Happy birthday" />
+    <published>2024-11-23T00:00:00+08:00</published>
+  
+    <updated>2024-11-23T00:00:00+08:00</updated>
+  
+    <id>https://evanlin-suctf.github.io/posts/Happy-birthday/</id>
+    <content type="text/html" src="https://evanlin-suctf.github.io/posts/Happy-birthday/" />
+    <author>
+      <name>EvanLin</name>
+    </author>
+
+  
+    
+  
+
+  <summary>Nov 23, 2024  Today is my birthday. I didn’t really plan to celebrate it in any special way—just another normal day. When I woke up this morning, I noticed a few messages from friends wishing me a happy birthday. It was a small thing, but it definitely made the morning feel a bit warmer.  Work was pretty normal. A couple of coworkers found out it was my birthday and insisted on getting lunch to...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>How they found me??</title>
+    <link href="https://evanlin-suctf.github.io/posts/how-they-found-me/" rel="alternate" type="text/html" title="How they found me??" />
+    <published>2024-09-02T00:00:00+08:00</published>
+  
+    <updated>2024-09-02T00:00:00+08:00</updated>
+  
+    <id>https://evanlin-suctf.github.io/posts/how-they-found-me/</id>
+    <content type="text/html" src="https://evanlin-suctf.github.io/posts/how-they-found-me/" />
+    <author>
+      <name>EvanLin</name>
+    </author>
+
+  
+    
+  
+
+  <summary>September 2, 2024  Something a little weird happened today and it’s been bothering me for most of the evening.  Recently I started noticing a few random people mentioning one of my old usernames in messages and comments. It’s not a name I’ve used for a long time, so seeing it suddenly appear again felt pretty strange. I honestly can’t remember where it might have been exposed.  What surprised m...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Don't spam</title>
+    <link href="https://evanlin-suctf.github.io/posts/don't-spam/" rel="alternate" type="text/html" title="Don&amp;apos;t spam" />
+    <published>2024-08-09T00:00:00+08:00</published>
+  
+    <updated>2024-08-09T00:00:00+08:00</updated>
+  
+    <id>https://evanlin-suctf.github.io/posts/don't-spam/</id>
+    <content type="text/html" src="https://evanlin-suctf.github.io/posts/don't-spam/" />
+    <author>
+      <name>EvanLin</name>
+    </author>
+
+  
+    
+  
+
+  <summary>August 9, 2024  Something a bit strange happened today. When I checked my inbox this morning, I noticed a bunch of emails from people I didn’t recognize. Most of them looked like random messages or advertisements, and a few were clearly spam.  At first I thought it was just the usual junk mail that slips through filters, but the number of messages kept increasing throughout the day. It made me ...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Normal life</title>
+    <link href="https://evanlin-suctf.github.io/posts/normal-life/" rel="alternate" type="text/html" title="Normal life" />
+    <published>2024-07-06T00:00:00+08:00</published>
+  
+    <updated>2024-07-06T00:00:00+08:00</updated>
+  
+    <id>https://evanlin-suctf.github.io/posts/normal-life/</id>
+    <content type="text/html" src="https://evanlin-suctf.github.io/posts/normal-life/" />
+    <author>
+      <name>EvanLin</name>
+    </author>
+
+  
+    
+  
+
+  <summary>July 6, 2024  Work was actually pretty interesting today. In the afternoon I spent some time discussing a small technical problem with my colleague shukuang. I’ve always felt that he’s one of those people who can understand complicated systems incredibly quickly.  We were looking at a strange bug that had been bothering me for a while. I had already tried a few different approaches but couldn’t...</summary>
+
+  </entry>
+
+</feed>
+
+
